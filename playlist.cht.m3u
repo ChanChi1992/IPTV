@@ -429,6 +429,8 @@ http://210.209.13.36/stc/CH157.m3u8
 http://210.209.13.36/stc/CH158.m3u8
 #EXTINF:0,凱亞精緻農業
 http://61.219.11.157/sta/CH66.m3u8
+#EXTINF:0,Lamigo TV
+http://60.199.188.151/HLS/WG_Lamigo/01.m3u8
 #EXTINF:0,龍華電影
 http://210.209.13.36/sta/CH23.m3u8
 #EXTINF:0,龍華卡通
@@ -444,7 +446,7 @@ http://210.209.13.36/stc/CH18.m3u8
 #EXTINF:0,年代MUCH HD
 http://210.209.13.36/sta/CH39.m3u8
 #EXTINF:0,年代新聞
-http://199.229.252.131:1935/live/mp4:CC-0BEFAC66-9651-B7BD-3350-A1C1AB8A320C-51052/playlist.m3u8
+http://208.75.225.28/live/ERATV/playlist.m3u8
 #EXTINF:0,民視HD
 http://61.219.11.157/sta/CH44.m3u8
 #EXTINF:0,民視新聞台
