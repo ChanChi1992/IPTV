@@ -463,7 +463,7 @@ http://61.219.11.157/sta/CH323064.m3u8
 http://210.209.13.36/sta/CH5168517.m3u8
 #EXTINF:0,三立都会台
 http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
-#EXTINF:0,三立台湾台HD
+#EXTINF:0,三立台湾台
 http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
 #EXTINF:0,生命电视
 http://61.219.11.157/sta/CH323056.m3u8
@@ -484,7 +484,7 @@ http://210.209.13.36/sta/CH5168515.m3u8
 #EXTINF:0,台视新闻台HD
 http://210.209.13.36/sta/CH5168516.m3u8
 #EXTINF:0,台视综合台
-http://210.209.13.36/sta/CH5168083.m3u8
+http://61.219.11.157/sta/CH323083.m3u8
 #EXTINF:0,台湾艺术台
 http://210.209.13.36/sta/CH5168003.m3u8
 #EXTINF:0,台艺2台
