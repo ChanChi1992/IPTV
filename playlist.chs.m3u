@@ -111,6 +111,10 @@ http://183.207.255.190:80/live/program/live/jjkt/1300000/mnf.m3u8
 http://183.207.255.190:80/live/program/live/kkkt/1300000/mnf.m3u8
 #EXTINF:0,CETV-1
 http://125.88.92.166:30001/PLTV/88888956/224/3221227737/1.m3u8
+#EXTINF:0,CNC中文台
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
+#EXTINF:0,CNC WORLD
+http://live.xinhuashixun.com/live/chn02/desc.m3u8
 #EXTINF:0,凤凰卫视中文台
 http://zv.3gv.ifeng.com/live/zhongwen.m3u8
 #EXTINF:0,凤凰卫视资讯台
