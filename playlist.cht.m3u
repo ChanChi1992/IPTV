@@ -145,6 +145,8 @@ http://v1.one-tv.com:1935/liv/app_2/ls_1.stream/playlist.m3u8
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/yangguangstv/yst.m3u8
 #EXTINF:0,耀才財經
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:0,中華衛視神州臺
+http://live.kapad.cn/live/live2.m3u8
 #EXTINF:0,澳亞衛視
 http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 #EXTINF:0,澳門蓮花
