@@ -111,6 +111,10 @@ http://125.88.92.165:30001/PLTV/88888956/224/3221227709/1.m3u8
 http://120.87.4.70/PLTV/88888894/224/3221225506/1.m3u8
 #EXTINF:0,CETV-1
 http://125.88.92.166:30001/PLTV/88888956/224/3221227737/1.m3u8
+#EXTINF:0,CNC中文台
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
+#EXTINF:0,CNC WORLD
+http://live.xinhuashixun.com/live/chn02/desc.m3u8
 #EXTINF:0,鳳凰衛視中文台
 http://zv.3gv.ifeng.com/live/zhongwen.m3u8
 #EXTINF:0,鳳凰衛視資訊台
