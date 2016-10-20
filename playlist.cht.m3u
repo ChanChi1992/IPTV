@@ -115,6 +115,8 @@ http://125.88.92.166:30001/PLTV/88888956/224/3221227737/1.m3u8
 http://live.xinhuashixun.com/live/chn01/desc.m3u8
 #EXTINF:0,CNC WORLD
 http://live.xinhuashixun.com/live/chn02/desc.m3u8
+#EXTINF:0,創世電視
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish2/kLive/smil:1_k5i4l96e_all.smil/playlist.m3u8
 #EXTINF:0,鳳凰衛視中文台
 http://zv.3gv.ifeng.com/live/zhongwen.m3u8
 #EXTINF:0,鳳凰衛視資訊台
@@ -256,7 +258,7 @@ http://live1.goodtv.org/osmflivech1.m3u8
 #EXTINF:0,好消息2台
 http://live1.goodtv.org/osmflivech2.m3u8
 #EXTINF:0,HBO Signature
-http://61.216.71.67/sta/ch5168004.m3u8
+http://61.216.71.67/sta/ch5168006.m3u8
 #EXTINF:0,HBO HD
 http://61.216.71.67/sta/ch5168005.m3u8
 #EXTINF:0,Hollywood
@@ -322,7 +324,7 @@ http://211.22.61.109/sta/ch323044.m3u8
 #EXTINF:0,民視新聞台
 http://211.22.61.109/sta/ch323045.m3u8
 #EXTINF:0,MOMO親子台
-http://61.216.71.67/sta/ch5168006.m3u8
+http://saka24.fansmestar.com/ch024/playlist.m3u8
 #EXTINF:0,MTV HD
 http://211.22.61.109/sta/ch323033.m3u8
 #EXTINF:0,NGC HD
@@ -355,8 +357,6 @@ http://61.216.71.67/sta/ch5168516.m3u8
 http://211.22.61.109/sta/ch323083.m3u8
 #EXTINF:0,台灣藝術台
 http://61.216.71.67/sta/ch516803.m3u8
-#EXTINF:0,台藝2台
-http://61.216.71.67/sta/ch5168522.m3u8
 #EXTINF:0,TLC旅遊生活
 http://211.22.61.109/sta/ch323059.m3u8
 #EXTINF:0,TVB8
@@ -551,105 +551,109 @@ http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
 http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
 #EXTINF:0,求索科學
 http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
-#EXTINF:0,MTV
-http://219.232.160.161:5080/hls/bm8d5c2h.m3u8
-#EXTINF:0,星空衛視
-http://slave.nx96200.cn:13164/playurl?programid=4200900108&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
-#EXTINF:0,Channel [V]
-http://slave.nx96200.cn:13164/playurl?programid=4200900113&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
-#EXTINF:0,HBO
-http://slave.nx96200.cn:13164/playurl?programid=4200900115&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
-#EXTINF:0,天映頻道
-http://slave.nx96200.cn:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
-#EXTINF:0,Channel 5
-http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
-#EXTINF:0,Channel 8
-http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
-#EXTINF:0,Channel U
-http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
-#EXTINF:0,Suria
-http://tglsuria-lh.akamaihd.net/i/suria_fta@334584/master.m3u8
-#EXTINF:0,Vasantham
-http://tglvas-lh.akamaihd.net/i/vas_fta@334587/master.m3u8
-#EXTINF:0,Channel NewsAsia
-http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
-#EXTINF:0,Okto
-http://tglokto-i.akamaihd.net/hls/live/224015/okto_iphipad/prog_index.m3u8
-#EXTINF:0,Eleven
-http://tgllive3-i.akamaihd.net/hls/live/251140/togglelive3/iphipad/prog_index.m3u8
-#EXTINF:0,Eleven Sports
-http://tgllive4-i.akamaihd.net/hls/live/251143/togglelive4/iphipad/prog_index.m3u8
-#EXTINF:0,Eleven Plus
-http://tgllive-i.akamaihd.net/hls/live/251135/togglelive/iphipad/prog_index.m3u8
-#EXTINF:0,Aniplus HD
-http://tglaniplus-i.akamaihd.net/hls/live/224016/tglaniplus_iphipad/prog_index.m3u8
-#EXTINF:0,Miao Mi
-http://tglmiaomi-i.akamaihd.net/hls/live/254169/miaomi_iphipad/index.m3u8
-#EXTINF:0,Nick Jr.
-http://tglnickjr-i.akamaihd.net/hls/live/229903/tglnickjr_iphipad/prog_index.m3u8
-#EXTINF:0,Da Vinci Learning
-http://tgldavinci-i.akamaihd.net/hls/live/224019/tgldavinci_iphipad/prog_index.m3u8
-#EXTINF:0,Bloomberg
-http://tglbloombrg-i.akamaihd.net/hls/live/224017/tglbloombrg_iphipad/prog_index.m3u8
-#EXTINF:0,Toggle LIVE
-http://tgllive-lh.akamaihd.net/i/toggle_live@334524/master.m3u8
-#EXTINF:0,Toggle LIVE 2
-http://tgllive2-lh.akamaihd.net/i/toggle_live2@342560/master.m3u8
-#EXTINF:0,Channel NewsAsia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:0,東盟衛視
-http://103.40.138.89:1935/live/mgtv/playlist.m3u8
-#EXTINF:0,泰國中央電視台
-http://solution01.stream.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
-#EXTINF:0,美國之音
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0,美國中文電視台中文
-http://ec.sinovision.net/video/ts/lv.m3u8
-#EXTINF:0,美國中文電視台英文
-http://ec.sinovision.net/video/tsen/lv.m3u8
-#EXTINF:0,新唐人美東頻道
-http://124.219.180.198:80/live220/playlist.m3u8
-#EXTINF:0,新唐人美西頻道
-http://108.168.141.4:80/uwlive280/playlist.m3u8
-#EXTINF:0,新唐人亞太頻道
-http://108.168.141.4:80/aplive200/playlist.m3u8
-#EXTINF:0,新唐人加拿大頻道
-http://174.127.67.246:80/mllive220/playlist.m3u8
-#EXTINF:0,新唐人舊金山頻道
-http://108.168.141.4:80/sflive220/playlist.m3u8
-#EXTINF:0,ABC NEWS
+#EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:0,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0,BBC WORLD NEWS
+#EXTINF:0,Aniplus HD
+http://tglaniplus-i.akamaihd.net/hls/live/224016/tglaniplus_iphipad/prog_index.m3u8
+#EXTINF:0,BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:0,Bloomberg
+http://tglbloombrg-i.akamaihd.net/hls/live/224017/tglbloombrg_iphipad/prog_index.m3u8
+#EXTINF:0,Bloomberg Asia
 http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/master.m3u8
+#EXTINF:0,Bloomberg USA
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/master.m3u8
 #EXTINF:0,C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
 #EXTINF:0,C-SPAN2
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:0,C-SPAN3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0,Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+#EXTINF:0,Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+#EXTINF:0,Channel NewsAsia Singapore
+http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
+#EXTINF:0,Channel NewsAsia International
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0,Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+#EXTINF:0,Channel [V]
+http://slave.nx96200.cn:13164/playurl?programid=4200900113&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
 #EXTINF:0,Daystar
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master.m3u8
-#EXTINF:0,France 24
+#EXTINF:0,東盟衛視
+http://103.40.138.89:1935/live/mgtv/playlist.m3u8
+#EXTINF:0,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0,Eleven
+http://tgllive3-i.akamaihd.net/hls/live/251140/togglelive3/iphipad/prog_index.m3u8
+#EXTINF:0,Eleven Plus
+http://tgllive-i.akamaihd.net/hls/live/251135/togglelive/iphipad/prog_index.m3u8
+#EXTINF:0,Eleven Sports
+http://tgllive4-i.akamaihd.net/hls/live/251143/togglelive4/iphipad/prog_index.m3u8
+#EXTINF:0,EUROSPORT English
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist.m3u8
+#EXTINF:0,EUROSPORT France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0,France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:0,France 24 France
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,HBO
+http://slave.nx96200.cn:13164/playurl?programid=4200900115&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
 #EXTINF:0,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0,美國中文電視台中文
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:0,美國中文電視台英文
+http://ec.sinovision.net/video/tsen/lv.m3u8
+#EXTINF:0,Miao Mi
+http://tglmiaomi-i.akamaihd.net/hls/live/254169/miaomi_iphipad/index.m3u8
 #EXTINF:0,MNB TV
 http://202.70.34.35/live/mnb.smil/playlist.m3u8
+#EXTINF:0,MTV
+http://219.232.160.161:5080/hls/bm8d5c2h.m3u8
 #EXTINF:0,NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0,NHK WORLD
+#EXTINF:0,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index.m3u8
-#EXTINF:0,RT WORLD
+#EXTINF:0,Nick Jr.
+http://tglnickjr-i.akamaihd.net/hls/live/229903/tglnickjr_iphipad/prog_index.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,RT World
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 #EXTINF:0,RT USA
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
 #EXTINF:0,RT UK
 http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
-#EXTINF:0,SKY NEWS
+#EXTINF:0,SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:0,WGN NEWS
+#EXTINF:0,Suria
+http://tglsuria-lh.akamaihd.net/i/suria_fta@334584/master.m3u8
+#EXTINF:0,泰國中央電視台
+http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+#EXTINF:0,天映頻道
+http://slave.nx96200.cn:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
+#EXTINF:0,Vasantham
+http://tglvas-lh.akamaihd.net/i/vas_fta@334587/master.m3u8
+#EXTINF:0,WGN Breaking
+http://wgntribune-lh.akamaihd.net/i/WGNTribuneBreaking_1@112464/master.m3u8
+#EXTINF:0,WGN News
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0,新唐人加拿大頻道
+http://174.127.67.246:80/mllive220/playlist.m3u8
+#EXTINF:0,新唐人舊金山頻道
+http://108.168.141.4:80/sflive220/playlist.m3u8
+#EXTINF:0,新唐人美東頻道
+http://124.219.180.198:80/live220/playlist.m3u8
+#EXTINF:0,新唐人美西頻道
+http://108.168.141.4:80/uwlive280/playlist.m3u8
+#EXTINF:0,新唐人亞太頻道
+http://108.168.141.4:80/aplive200/playlist.m3u8
+#EXTINF:0,星空衛視
+http://slave.nx96200.cn:13164/playurl?programid=4200900108&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
