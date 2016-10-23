@@ -383,6 +383,8 @@ http://61.216.71.67/sta/ch5168038.m3u8
 http://211.22.61.109/sta/ch323065.m3u8
 #EXTINF:0,希望電視台
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
+#EXTINF:0,信吉衛星電視台
+http://61.216.71.67/sta/ch5168702.m3u8
 #EXTINF:0,亞洲旅遊台
 http://61.216.71.67/stc/ch168004.m3u8
 #EXTINF:0,亞洲綜合台
