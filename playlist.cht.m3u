@@ -235,6 +235,8 @@ http://61.216.71.67/sta/ch5168020.m3u8
 http://61.216.71.67/sta/ch5168017.m3u8
 #EXTINF:0,動物星球
 http://211.22.61.109/sta/ch323052.m3u8
+#EXTINF:0,番薯衛星電視台
+http://210.209.3.1:80/live/C02DD98E-593E-47A8-905C-3B101183A555?cpid=admin
 #EXTINF:0,Fashion One
 http://211.22.61.109/sta/ch323071.m3u8
 #EXTINF:0,非凡新聞HD
@@ -355,6 +357,8 @@ http://61.216.71.67/sta/ch5168516.m3u8
 http://211.22.61.109/sta/ch323083.m3u8
 #EXTINF:0,台灣藝術台
 http://61.216.71.67/sta/ch516803.m3u8
+#EXTINF:0,天良衛星電視台
+http://61.216.71.67/sta/ch5168701.m3u8
 #EXTINF:0,TLC旅遊生活
 http://211.22.61.109/sta/ch323059.m3u8
 #EXTINF:0,TVB8
@@ -553,8 +557,12 @@ http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
 http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0,Arirang
+#EXTINF:0,Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:0,Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,Arirang UN
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 #EXTINF:0,Aniplus HD
 http://tglaniplus-i.akamaihd.net/hls/live/224016/tglaniplus_iphipad/prog_index.m3u8
 #EXTINF:0,BBC World News
@@ -567,10 +575,12 @@ http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/master.m3u8
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/master.m3u8
 #EXTINF:0,C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:0,C-SPAN2
+#EXTINF:0,C-SPAN 2
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:0,C-SPAN3
+#EXTINF:0,C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:0,Channel 5
 http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
 #EXTINF:0,Channel 8
@@ -588,6 +598,14 @@ http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master.m3u8
 #EXTINF:0,東盟衛視
 http://103.40.138.89:1935/live/mgtv/playlist.m3u8
 #EXTINF:0,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0,DW America
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0,DW Arab
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:0,DW Deutsch
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:0,DW Latin America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0,Eleven
 http://tgllive3-i.akamaihd.net/hls/live/251140/togglelive3/iphipad/prog_index.m3u8
@@ -595,9 +613,11 @@ http://tgllive3-i.akamaihd.net/hls/live/251140/togglelive3/iphipad/prog_index.m3
 http://tgllive-i.akamaihd.net/hls/live/251135/togglelive/iphipad/prog_index.m3u8
 #EXTINF:0,Eleven Sports
 http://tgllive4-i.akamaihd.net/hls/live/251143/togglelive4/iphipad/prog_index.m3u8
-#EXTINF:0,EUROSPORT English
+#EXTINF:0,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/4-live.m3u8
+#EXTINF:0,Eurosport English
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist.m3u8
-#EXTINF:0,EUROSPORT France
+#EXTINF:0,Eurosport France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0,France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
@@ -623,8 +643,6 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index.m3u8
 #EXTINF:0,Nick Jr.
 http://tglnickjr-i.akamaihd.net/hls/live/229903/tglnickjr_iphipad/prog_index.m3u8
-#EXTINF:0,VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:0,RT World
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 #EXTINF:0,RT USA
@@ -641,6 +659,14 @@ http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 http://slave.nx96200.cn:13164/playurl?programid=4200900116&playtype=live&accesstoken=R5746FF7CU3ECC8289K7748C58FM30E3499W80675&qamname=djammon&auth=no
 #EXTINF:0,Vasantham
 http://tglvas-lh.akamaihd.net/i/vas_fta@334587/master.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc4@320296/master.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
+#EXTINF:0,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:0,WGN Breaking
 http://wgntribune-lh.akamaihd.net/i/WGNTribuneBreaking_1@112464/master.m3u8
 #EXTINF:0,WGN News
