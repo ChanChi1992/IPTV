@@ -427,6 +427,8 @@ http://61.216.136.45:1935/mth/c239.stream/playlist.m3u8
 http://211.22.61.109/sta/ch323099.m3u8
 #EXTINF:0,中视经典台
 http://211.22.61.109/sta/ch323101.m3u8
+#EXTINF:0,中视新闻台
+http://211.22.61.109/sta/ch323102.m3u8
 #EXTINF:0,中天新闻
 http://61.216.136.45:1935/mth/c169.stream/playlist.m3u8
 #EXTINF:0,中天亚洲台
